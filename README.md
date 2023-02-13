@@ -1,10 +1,12 @@
 # Jellyfin Media Player
 
-Ubuntu Touch packagíng for the web client of the free and open source media server "Jellyfin".
+Ubuntu Touch packaging for the web client of the free and open source media server "Jellyfin".
 
 <https://jellyfin.org/> <br />
 <https://github.com/jellyfin/jellyfin> <br />
 <https://github.com/jellyfin/jellyfin-web> <br />
+
+[![OpenStore](https://open-store.io/badges/en_US.svg)](https://open-store.io/app/jellyfin.tafitson)
 
 ## Build
 
