@@ -2,16 +2,16 @@
 
 Ubuntu Touch packagíng for the web client of the free and open source media server "Jellyfin".
 
-<https://jellyfin.org/>
-<https://github.com/jellyfin/jellyfin>
-<https://github.com/jellyfin/jellyfin-web>
+<https://jellyfin.org/> <br />
+<https://github.com/jellyfin/jellyfin> <br />
+<https://github.com/jellyfin/jellyfin-web> <br />
 
 ## Build
 
 You need Clickable and Node installed.
 
-Initialize/update submodules with `clickable scrip fetch`.
-Build wiht `clickable build`.
+Initialize/update submodules with `clickable scrip fetch`. <br />
+Build with `clickable build`.
 
 ## License
 
