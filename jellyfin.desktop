@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Jellyfin Media Player
+Exec=webapp-container --app-id="jellyfin.tafitson" --enable-media-hub-audio --local-content-can-access-remote-urls $@ www/index.html
+Icon=assets/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

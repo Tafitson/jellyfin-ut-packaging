@@ -1,0 +1,12 @@
+clickable_minimum_required: 7.1.2
+builder: pure
+kill: webapp-container*
+prebuild: bash ${ROOT}/prebuild.sh
+scripts:
+  fetch: git submodule update --init
+ignore:
+- .clickable
+- .git
+- .gitignore
+- .gitmodules
+- jellyfin-web

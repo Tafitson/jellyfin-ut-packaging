@@ -1,0 +1,15 @@
+{
+    "name": "jellyfin.tafitson",
+    "description": "Ubuntu Touch packaging for the web client of the free and open source media server \"Jellyfin\".",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Jellyfin Media Player",
+    "hooks": {
+        "jellyfin": {
+            "apparmor": "jellyfin.apparmor",
+            "desktop":  "jellyfin.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "David Thiele <david.thiele@tafitson.de>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

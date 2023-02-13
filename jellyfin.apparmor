@@ -1,0 +1,11 @@
+{
+    "template": "ubuntu-webapp",
+    "policy_groups": [
+        "networking",
+        "webview",
+        "video",
+        "audio",
+        "keep-display-on"
+    ],
+    "policy_version": 20.04
+}
