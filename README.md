@@ -10,7 +10,7 @@ Ubuntu Touch packagíng for the web client of the free and open source media ser
 
 You need Clickable and Node installed.
 
-Initialize/update submodules with `clickable scrip fetch`. <br />
+Initialize/update submodules with `clickable script fetch`. <br />
 Build with `clickable build`.
 
 ## License
